@@ -1,0 +1,8 @@
+{
+  "validator_version": "exact_geometry_v2",
+  "corner_cut_regression": "passed",
+  "circle_tunneling_regression": "passed",
+  "randomized_independent_cross_checks": 10000,
+  "mismatches": 0,
+  "status": "PASS"
+}
